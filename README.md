@@ -1,9 +1,9 @@
 # praktikum 8
 #### Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan :
-#### - Method tambah() untuk menambahkan data
-#### - Method tampilkan() untuk menampilkan data
-#### - Method hapus() untuk mengahapus data
-#### - Method ubah() untuk mengubah data
+#### 1 Method tambah() untuk menambahkan data
+#### 2 Method tampilkan() untuk menampilkan data
+#### 3 Method hapus() untuk mengahapus data
+#### 4 Method ubah() untuk mengubah data
 
 #### - Langkah pertama membuat dictionary kosong
 ![gambar](gambarss/1.png)
