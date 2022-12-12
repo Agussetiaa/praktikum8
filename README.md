@@ -9,27 +9,27 @@
 ![gambar](gambarss/1.png)
 
 #### - Membuat class untuk menampung fungsi
-![gambar](gambarss/2.png)
+![gambar](gambarss/2.2.png)
 
 #### - Fungsi menambah data
-![gambar](gambarss/3.png)
+![gambar](gambarss/2.png)
 
 #### - Fungsi class baru
-![gambar](gambarss/4.png)
+![gambar](gambarss/3.png)
 
 #### - Fungsi menampilkan data
-![gambar](gambarss/5.png)
+![gambar](gambarss/4.png)
 
 #### - Fungsi menghapus data
-![gambar](gambarss/6.png)
+![gambar](gambarss/5.png)
 
 #### - Fungsi mengubah data 
-![gambar](gambarss/7.png)
+![gambar](gambarss/6.png)
 
 #### - Code untuk memanggil data
-![gambar](gambarss/8.png)
+![gambar](gambarss/7.png)
 
 ## Output Program
+![gambar](gambarss/8.png)
 ![gambar](gambarss/9.png)
 ![gambar](gambarss/10.png)
-![gambar](gambarss/11.png)
