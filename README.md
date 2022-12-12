@@ -31,3 +31,6 @@
 
 ## Output Program
 ![gambar](gambarss/8.png)
+
+## FLOWCHART
+![gambar](gambarss/9.jpeg)
