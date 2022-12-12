@@ -31,5 +31,3 @@
 
 ## Output Program
 ![gambar](gambarss/8.png)
-![gambar](gambarss/9.png)
-![gambar](gambarss/10.png)
