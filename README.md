@@ -33,4 +33,4 @@
 ![gambar](gambarss/8.png)
 
 ## FLOWCHART
-![gambar](gambarss/9.jpeg)
+![gambar](gambarss/9.jpg)
